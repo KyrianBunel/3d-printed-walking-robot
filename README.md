@@ -1,5 +1,6 @@
 # 3d-printed-walking-robot
 a fully 3d printable robot capable of walking, controlled with an RC car receiver
+<img width="1709" alt="PIC_3" src="https://github.com/KyrianBunel/3d-printed-walking-robot/assets/136705314/365f81bd-98b2-4a32-9265-fd923f9d0696">
 
 # Future improvements :
 - add WiFi or BLE connectivity
